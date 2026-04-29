@@ -1,0 +1,13 @@
+{
+  "workspace": {
+    "id": "ws_1",
+    "name": "Agency Hub",
+    "plan": "Global",
+    "ownerName": "Owner Name"
+  },
+  "clients": [],
+  "projects": [],
+  "approvals": [],
+  "invoices": [],
+  "activity": []
+}
